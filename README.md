@@ -1,2 +1,2 @@
 # Rasoi-Food-Ordering
-New Repository
+Food ordering app
